@@ -1,0 +1,725 @@
+TTennis Object Oriented
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreakerScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/PointScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreaker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/SetScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/MatchScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Match.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/GameScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Set.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Score.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Competition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/Tennis\ Object\ Oriented normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005281A82900000000000000AA
+t1384228905
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052673213000000000000044C
+t1382494739
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267321300000000000001DB
+t1382494739
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052673217000000000000681C
+t1382494743
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c0000000052673217000000000006E8B0
+t1382494743
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526732170000000000004734
+t1382494743
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052673217000000000000FC6C
+t1382494743
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052673217000000000000F6A0
+t1382494743
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526732170000000000006254
+t1382494743
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052673217000000000000E0F8
+t1382494743
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052673217000000000000D6DC
+t1382494743
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000526732170000000000006308
+t1382494743
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526732170000000000004050
+t1382494743
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000526732170000000000008570
+t1382494743
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526732170000000000005EA0
+t1382494743
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526732170000000000005FAC
+t1382494743
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526732170000000000004440
+t1382494743
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052673217000000000000AA28
+t1382494743
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526732170000000000003E2C
+t1382494743
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000526732170000000000030A24
+t1382494743
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000526732170000000000005E54
+t1382494743
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000526732170000000000006A90
+t1382494743
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005267321700000000000178AC
+t1382494743
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052673217000000000001ADC8
+t1382494743
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052673217000000000001028C
+t1382494743
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000526732170000000000008800
+t1382494743
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526732170000000000011090
+t1382494743
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052673217000000000000882C
+t1382494743
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005267321700000000000067AC
+t1382494743
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526732170000000000008DEC
+t1382494743
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000526732170000000000004C08
+t1382494743
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005267321700000000000023C0
+t1382494743
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052673217000000000000439C
+t1382494743
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526732170000000000006768
+t1382494743
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005267321700000000000172F4
+t1382494743
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005267321D0000000000001750
+t1382494749
+s5968
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Competition.o
+t1390540850
+s4936
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Game.o
+t1390540850
+s8396
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/GameScore.o
+t1390540851
+s74916
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Match.o
+t1390540850
+s5552
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/MatchScore.o
+t1390540850
+s8568
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Player.o
+t1390540851
+s76660
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/PointScore.o
+t1390540851
+s74876
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Score.o
+t1390540850
+s7248
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Set.o
+t1390540850
+s5516
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/SetScore.o
+t1390540851
+s76096
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Tennis Object Oriented.LinkFileList
+c0000000052E1F8320000000000000E1A
+t1390540850
+s3610
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/TieBreaker.o
+t1390540850
+s5660
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/TieBreakerScore.o
+t1390540850
+s5164
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/main.o
+t1390540851
+s72356
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Products/Debug/Tennis Object Oriented
+t1390540851
+s38704
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.cpp
+c0000000052E0A2A800000000000000EE
+t1390453416
+s238
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+c0000000052E0A2A20000000000000201
+t1390453410
+s513
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.cpp
+c0000000052E04B1400000000000001D7
+t1390430996
+s471
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.hpp
+c0000000052DDE9160000000000000176
+t1390274838
+s374
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.cpp
+c0000000052DDE2D700000000000001F4
+t1390273239
+s500
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.hpp
+c0000000052DDE9310000000000000142
+t1390274865
+s322
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Match.cpp
+c0000000052DDD5960000000000000089
+t1390269846
+s137
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Match.hpp
+c0000000052DDE94D000000000000022B
+t1390274893
+s555
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/MatchScore.cpp
+c0000000052DDE39C00000000000001B4
+t1390273436
+s436
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/MatchScore.hpp
+c0000000052DDE96100000000000001BF
+t1390274913
+s447
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.cpp
+c0000000052E04D7B0000000000000492
+t1390431611
+s1170
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+c0000000052E04CCA0000000000000262
+t1390431434
+s610
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.cpp
+c0000000052DDE40100000000000001D4
+t1390273537
+s468
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.hpp
+c0000000052DDE9980000000000000187
+t1390274968
+s391
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.cpp
+c0000000052DDE4240000000000000213
+t1390273572
+s531
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+c0000000052DDE9AD00000000000003A3
+t1390274989
+s931
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Set.cpp
+c0000000052DDD4ED0000000000000082
+t1390269677
+s130
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Set.hpp
+c0000000052E053A300000000000001ED
+t1390433187
+s493
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.cpp
+c0000000052E053E90000000000000299
+t1390433257
+s665
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.hpp
+c0000000052DDE9ED0000000000000242
+t1390275053
+s578
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreaker.cpp
+c0000000052DDD53B000000000000009E
+t1390269755
+s158
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreaker.hpp
+c0000000052DDEA000000000000000217
+t1390275072
+s535
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.cpp
+c0000000052DDD5F6000000000000006D
+t1390269942
+s109
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.hpp
+c0000000052DDEA120000000000000139
+t1390275090
+s313
+
+N/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/main.cpp
+c0000000052E1F80400000000000009D6
+t1390540804
+s2518
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Competition.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Game.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/GameScore.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Match.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/MatchScore.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Player.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/PointScore.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Score.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Set.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/SetScore.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreaker.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreakerScore.cpp
+r0
+
+CBuild AST from /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies18406cfe7194b841^30496dfe7194b841^-241"warning: no rule to process file '/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Makefile' of type sourcecode.make for architecture x86_641(21%IDEActivityLogMessage2@240"Warning: no rule to process file '/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Makefile' of type sourcecode.make for architecture x86_64-412381694#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"6C0D395E-74E0-4281-B7C9-10DB5637EC5E-
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Competition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.917972
+e412233650.961944
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Competition.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.cpp272"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.o Tennis\ Object\ Oriented/Competition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc920ebb22f92b841^8d42f6b22f92b841^---0#0#1#-19%DVTDocumentLocation2@185"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/Competition.cpp0000000000000000^4929"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.o Tennis\ Object\ Oriented/Competition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Competition.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Competition.o36"85657908-4A20-41BC-9220-23B41FDA34CA-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.891256
+e412233650.950303
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Game.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.cpp258"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.o Tennis\ Object\ Oriented/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compileraa45e4b22f92b841^a647f3b22f92b841^---0#0#1#-19%DVTDocumentLocation2@178"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/Game.cpp0000000000000000^4887"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.o Tennis\ Object\ Oriented/Game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Game.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Game.o36"A3D83C56-4943-4FBA-AD01-540912FF677F-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/GameScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.754595
+e412233651.444697
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/GameScore.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.cpp268"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.o Tennis\ Object\ Oriented/GameScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler338ac1b22f92b841^e4d971b32f92b841^---0#0#1#-19%DVTDocumentLocation2@183"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/GameScore.cpp0000000000000000^4917"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.o Tennis\ Object\ Oriented/GameScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/GameScore.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/GameScore.o36"B7F3D123-E8C5-4782-9D02-54DB01F6F82A-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Match.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.752348
+e412233650.890480
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Match.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Match.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Match.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Match.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Match.cpp260"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.o Tennis\ Object\ Oriented/Match.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler73bec0b22f92b841^f5f6e3b22f92b841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/Match.cpp0000000000000000^4893"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.o Tennis\ Object\ Oriented/Match.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Match.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Match.o36"1C50CBF4-3387-4F79-BA80-57A68D5EA465-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/MatchScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.752125
+e412233650.889824
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/MatchScore.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/MatchScore.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/MatchScore.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/MatchScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/MatchScore.cpp270"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.o Tennis\ Object\ Oriented/MatchScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb1bfc0b22f92b841^8fdfe3b22f92b841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/MatchScore.cpp0000000000000000^4923"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.o Tennis\ Object\ Oriented/MatchScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/MatchScore.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/MatchScore.o36"A7FC8CD5-65DB-4146-B873-DB32CE6AF1DA-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.751739
+e412233651.441897
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Player.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.cpp262"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.o Tennis\ Object\ Oriented/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerce8ac0b22f92b841^9f2071b32f92b841^---0#0#1#-19%DVTDocumentLocation2@180"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/Player.cpp0000000000000000^4899"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.o Tennis\ Object\ Oriented/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Player.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Player.o36"72C37924-AD58-4684-A48C-3C1C08DD71E1-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/PointScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.750122
+e412233651.445824
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/PointScore.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/PointScore.cpp270"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.o Tennis\ Object\ Oriented/PointScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler904fc0b22f92b841^c92172b32f92b841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/PointScore.cpp0000000000000000^4923"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.o Tennis\ Object\ Oriented/PointScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/PointScore.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/PointScore.o36"C808F4AD-19FF-4F37-A9B9-39F11D03DC0B-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Score.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.896431
+e412233650.933219
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Score.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.cpp260"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.o Tennis\ Object\ Oriented/Score.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler83a2e5b22f92b841^3813efb22f92b841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/Score.cpp0000000000000000^4893"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.o Tennis\ Object\ Oriented/Score.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Score.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Score.o36"4C02AF45-14AD-4280-84AF-B848EFCE1336-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Set.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.892255
+e412233650.916659
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Set.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Set.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Set.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Set.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Set.cpp256"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.o Tennis\ Object\ Oriented/Set.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7b86e4b22f92b841^05a7eab22f92b841^---0#0#1#-19%DVTDocumentLocation2@177"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/Set.cpp0000000000000000^4881"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.o Tennis\ Object\ Oriented/Set.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/Set.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Set.o36"44BE5A8B-BADF-43BB-B1EB-677369BAFE3A-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/SetScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.751447
+e412233651.450751
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/SetScore.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/SetScore.cpp266"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.o Tennis\ Object\ Oriented/SetScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compileree77c0b22f92b841^f16473b32f92b841^---0#0#1#-19%DVTDocumentLocation2@182"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/SetScore.cpp0000000000000000^4911"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.o Tennis\ Object\ Oriented/SetScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/SetScore.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/SetScore.o36"1E15C596-7C56-44C0-916F-8684C6A456F4-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreaker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.751112
+e412233650.889974
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/TieBreaker.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreaker.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreaker.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreaker.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreaker.cpp270"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.o Tennis\ Object\ Oriented/TieBreaker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6265c0b22f92b841^4793e3b22f92b841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/TieBreaker.cpp0000000000000000^4923"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.o Tennis\ Object\ Oriented/TieBreaker.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreaker.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreaker.o36"E959A89F-8C72-4079-8BCD-29E2DFE27FF5-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreakerScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.749833
+e412233650.891984
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/TieBreakerScore.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/TieBreakerScore.cpp280"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.o Tennis\ Object\ Oriented/TieBreakerScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb54ec0b22f92b841^1d5ae4b22f92b841^---0#0#1#-19%DVTDocumentLocation2@189"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/TieBreakerScore.cpp0000000000000000^4953"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.o Tennis\ Object\ Oriented/TieBreakerScore.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/TieBreakerScore.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/TieBreakerScore.o36"1CFECFC1-F6AA-4EA3-983E-7B8B4468AC51-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CCompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412233650.892322
+e412233651.500663
+r1
+xCompileC
+xDerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/main.o
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/main.cpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Player.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Game.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Competition.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/GameScore.hpp
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/Score.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"Compile /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/Tennis Object Oriented/main.cpp258"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.o Tennis\ Object\ Oriented/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3ca4e4b22f92b841^fa2b80b32f92b841^---0#0#1#-19%DVTDocumentLocation2@178"file:///Users/TheDavid/Dropbox/School/SSU/Classes/Spring%202014/CS470/Projects/Project1/Phase%201/Object%20Oriented/Tennis%20Object%20Oriented/Tennis%20Object%20Oriented/main.cpp0000000000000000^4887"CompileC DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.o Tennis\ Object\ Oriented/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-generated-files.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-own-target-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-all-target-headers.hmap -iquote /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Tennis\ Object\ Oriented-project-headers.hmap -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources/x86_64 -I/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/DerivedSources -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -MMD -MT dependencies -MF /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.dia -c /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/Tennis\ Object\ Oriented/main.cpp -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/main.o36"EF49CB45-47F0-46F7-B520-7B2004899659-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
+CLd /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/Tennis\ Object\ Oriented normal x86_64
+s412233651.502462
+e412233651.560481
+r1
+xLd
+x/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Products/Debug/Tennis Object Oriented
+xnormal
+xx86_64
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Tennis Object Oriented.LinkFileList
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/TieBreakerScore.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/PointScore.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/TieBreaker.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/SetScore.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Player.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/MatchScore.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Match.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/GameScore.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Set.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Game.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/main.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Score.o
+d/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Intermediates/Tennis Object Oriented.build/Debug/Tennis Object Oriented.build/Objects-normal/x86_64/Competition.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection209"Link /Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented/DerivedData/Tennis Object Oriented/Build/Products/Debug/Tennis Object Oriented99"Ld DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/Tennis\ Object\ Oriented normal x86_64bcb180b32f92b841^cc7c8fb32f92b841^---0#0#1#--1821"Ld DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/Tennis\ Object\ Oriented normal x86_64    cd "/Users/TheDavid/Dropbox/School/SSU/Classes/Spring 2014/CS470/Projects/Project1/Phase 1/Object Oriented/Tennis Object Oriented"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -F/Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug -filelist /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Tennis\ Object\ Oriented.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Intermediates/Tennis\ Object\ Oriented.build/Debug/Tennis\ Object\ Oriented.build/Objects-normal/x86_64/Tennis\ Object\ Oriented_dependency_info.dat -o /Users/TheDavid/Dropbox/School/SSU/Classes/Spring\ 2014/CS470/Projects/Project1/Phase\ 1/Object\ Oriented/Tennis\ Object\ Oriented/DerivedData/Tennis\ Object\ Oriented/Build/Products/Debug/Tennis\ Object\ Oriented36"030D3B97-8DF4-431A-B9F0-4BE012E43EE0-
+bAF9E65F9-6671-4699-AFF0-FEEF3FD22637
+
