@@ -1,8 +1,10 @@
 //
 //  main.cpp
 //  Tennis Object Oriented
+//  PROJECT 1 - PHASE 1
+//  CS470 - Spring 2014
 //
-//  Created by David Wells on 1/23/14.
+//  CREATED BY DAVID WELLS
 //  Copyright (c) 2014 David Wells. All rights reserved.
 //
 
