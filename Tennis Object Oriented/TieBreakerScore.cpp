@@ -46,7 +46,7 @@ void TieBreakerScore::print() {
     
     std::cout << std::setw(16) << "(Tie Breaker  " << player1Score() << "-" <<
     player2Score() << ")";
-    std::cout << std::endl;
+    //std::cout << std::endl;
     
     
     

@@ -7,6 +7,9 @@
 //
 
 #include "MatchScore.hpp"
+#include "iostream"  // for cout
+#include "iomanip"   // for setw
+using namespace std; // so i don't have to type std:: before everything
 
 MatchScore::MatchScore( Player *p1, Player *p2 ): Score( p1, p2 ), setNumber(0) {}
 
@@ -33,9 +36,20 @@ void MatchScore::addScore( Score *score ) {
     
 }
 
+//  Implemented by David Wells
 void MatchScore::print() {
-    for( int i = 0; i < setNumber; i++ )
-      scores[i]->print();
+    
+    // Using same format as tennis.cpp for printing:
+    cout << "   Set No.    Player A          Player B\n";
+    for( int i = 0; i < setNumber; i++ ) {
+        
+        // Just setting widths and specifying format for printing
+        cout << setw(7) << i+1;
+        scores[i]->print();
+        cout << endl;
+        
+    }
+    
 }
 
 MatchScore::~MatchScore() {
