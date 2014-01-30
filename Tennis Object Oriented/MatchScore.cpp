@@ -50,7 +50,20 @@ void MatchScore::print() {
         
     }
     
+    // Print out final winner of the match:
+    if ( player1Score() > player2Score() ) {
+        cout << "\nPlayer A wins the match " << player1Score() << " sets to "
+        << player2Score() << endl;
+        cout << endl;
+    }
+    
+    else{
+        cout << "\nPlayer B wins the match " << player1Score() << " sets to "
+        << player2Score() << endl;
+        cout << endl;
+    }
 }
+
 
 MatchScore::~MatchScore() {
     for( int i = 0; i < setNumber; i++ )
