@@ -18,6 +18,8 @@ SetScore::SetScore( Player *p1, Player *p2 ): Score(p1, p2), tieScore(0) {}
 bool SetScore::haveAWinner()           {
     
     //  Using the function from the tennis.cpp
+    //  And according to the rules of tennis provided:
+    //  "A set is won by the first player to win 6 games if ahead by 2 games"
     return ( player1Score() >= 6 || player2Score() >= 6 ) &&
                 abs(player1Score()-player2Score()) >= 2;
 }
@@ -26,6 +28,7 @@ bool SetScore::haveAWinner()           {
 bool SetScore::shouldPlayATieBreaker() {
     
     //  Using the function from the tennis.cpp
+    //  Also per the rules... if a score of 6-6 is reached we play a tie-breaker
     return player1Score() == 6 && player2Score() ==6 ;
 }
 

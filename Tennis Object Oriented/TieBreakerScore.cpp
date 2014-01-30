@@ -7,9 +7,14 @@
 //
 
 #include "TieBreakerScore.hpp"
+#include <stdlib.h>  //  to get the abs function
+#include <iostream>     // std::cout, std::endl
+#include <iomanip>      // std::setw
 
 TieBreakerScore::TieBreakerScore( Player *p1, Player *p2 ): Score(p1, p2) {}
 
+
+//  Implemented by David Wells
 
 //  Implementation of the two things I added to handle the tie situation, which is different from the normal game situation.
 
@@ -39,9 +44,9 @@ void TieBreakerScore::print() {
      
      */
     
-    cout << setw(16) << "(Tie Breaker  " << player1Score << "-" <<
-    player2Score << ")";
-    cout << endl;
+    std::cout << std::setw(16) << "(Tie Breaker  " << player1Score() << "-" <<
+    player2Score() << ")";
+    std::cout << std::endl;
     
     
     

@@ -23,8 +23,13 @@ bool MatchScore::haveAWinner()  {
 void MatchScore::addScore( Score *score ) {
     
     // Create an array to hold all of the scores
+    scores[setNumber] = reinterpret_cast<SetScore *>(score);
     
+    // Increment the set number
+    setNumber++;
     
+    // Check the winner.  Whoever wins gets their point score incremented
+    score -> getWinner() == player1() ? p1Score++ : p2Score++;
     
 }
 
@@ -32,6 +37,7 @@ void MatchScore::print() {
     for( int i = 0; i < setNumber; i++ )
       scores[i]->print();
 }
+
 MatchScore::~MatchScore() {
     for( int i = 0; i < setNumber; i++ )
       delete scores[i];

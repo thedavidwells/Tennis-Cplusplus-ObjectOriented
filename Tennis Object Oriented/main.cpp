@@ -1,5 +1,3 @@
-//
-//  main.cpp
 //  Tennis Object Oriented
 //  PROJECT 1 - PHASE 1
 //  CS470 - Spring 2014
@@ -64,61 +62,52 @@
  */
 
 
+//  Revisions to main() by David Wells
+//  Written to work similarly to tennis.cpp
 int main()
 {
+    // Hard coded probability - by Kooshesh, used for testing and initialization of vars
     int prob1 = 70;
     int prob2 = 70;
     
     srand( getpid() );
     int randSeed;
     
+    // Prompt the user
     std::cout << "Enter a seed for the random-number generator: ";
     std::cin >> randSeed;
     srand( randSeed );
     
     //  Allow user to set Player A and Player B probablility for winning
-    /*
-     NOTE:  FOR NOW JUST LEAVING IT HARD CODED FOR EASE OF TESTING.
     std::cout << "Please enter the probablility of player A winning when (s)he serves: ";
     std::cin >> prob1;
     std::cout << "Please enter the probablility of player B winning when (s)he serves: ";
     std::cin >> prob2;
-    */
     
     
-    // Create Players
+    // Create the Players
     Player *p1 = new Player( prob1 );
     Player *p2 = new Player( prob2 );
     
     // Create a MATCH - A match is the overall entity that encompases sets and games
-    
-    Match *match = new Match(p1, p2);
-    
-    
-    // Create a SET - A set contains at least 6 games.
-    Set *set = new Set(p1, p2);
-    
-    Score *score = set->play(p1);
-    
-    // Create a new GAME and score, and print the final score for this game.
-    Game *game = new Game( p1, p2 );
-    //Score *score = game->play( p1 );
-    score->print();
+    Match *aTennisMatch = new Match(p1, p2);
     
     
+    // Create a score - and start playing the match!
+    // The result of the match goes into score
+    Score *score = aTennisMatch->play(p1);
     
-    delete match;
+    // Print the final score for this tennis match
+    score -> print();
+    
+    
+    // Clear out the match and the players from memory
+    delete aTennisMatch;
     delete  reinterpret_cast<MatchScore *>(score);
     delete p1;
     delete p2;
+   
     
-    
-    
-    
-    
-    
-    
-    
-    
+    // All went well, so return!
     return 0;
 }

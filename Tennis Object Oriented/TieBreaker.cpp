@@ -46,6 +46,7 @@ Score *TieBreaker::play( Player *p ) {
         }
         
         // Set the server variable to the opposite of whatever it is currently set to
+        // The point is to switch servers every other time
         switchTheServer = !switchTheServer;
 
         
@@ -55,7 +56,7 @@ Score *TieBreaker::play( Player *p ) {
     
     
     
-    // Original C++ code:
+    // Original C++ code from tennis.cpp file
     /*
      p1_score = p2_score = 0;
      point( player ) == PLAYER1 ? p1_score++ : p2_score++;
