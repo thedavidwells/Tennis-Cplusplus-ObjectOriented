@@ -58,8 +58,8 @@ void MatchScore::print() {
     }
     
     else{
-        cout << "\nPlayer B wins the match " << player1Score() << " sets to "
-        << player2Score() << endl;
+        cout << "\nPlayer B wins the match " << player2Score() << " sets to "
+        << player1Score() << endl;
         cout << endl;
     }
 }
