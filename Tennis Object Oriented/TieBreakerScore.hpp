@@ -19,6 +19,11 @@
 class TieBreakerScore: public Score {
 public:
   TieBreakerScore( Player *p1, Player *p2 );
+  
+    // need to add a couple more things to handles the tie situation:
+    bool haveAWinner();
+    void print();
+    
 };
 
 #endif

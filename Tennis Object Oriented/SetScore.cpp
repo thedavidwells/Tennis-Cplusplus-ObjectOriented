@@ -17,6 +17,7 @@ SetScore::SetScore( Player *p1, Player *p2 ): Score(p1, p2), tieScore(0) {}
 //  Implemented by David Wells
 bool SetScore::haveAWinner()           {
     
+    //  Using the function from the tennis.cpp
     return ( player1Score() >= 6 || player2Score() >= 6 ) &&
                 abs(player1Score()-player2Score()) >= 2;
 }
@@ -24,6 +25,7 @@ bool SetScore::haveAWinner()           {
 //  Implemented by David Wells
 bool SetScore::shouldPlayATieBreaker() {
     
+    //  Using the function from the tennis.cpp
     return player1Score() == 6 && player2Score() ==6 ;
 }
 

@@ -9,8 +9,23 @@
 #include "MatchScore.hpp"
 
 MatchScore::MatchScore( Player *p1, Player *p2 ): Score( p1, p2 ), setNumber(0) {}
-bool MatchScore::haveAWinner()  { return false;  }  // just to make the compiler happy!
+
+//  Implemented by David Wells
+bool MatchScore::haveAWinner()  {
+    
+    //  Using the function match_over() from the tennis.cpp
+    return player1Score() == 3 || player2Score() == 3;
+    
+}  // just to make the compiler happy!
+
+
+//  Implemented by David Wells
 void MatchScore::addScore( Score *score ) {
+    
+    // Create an array to hold all of the scores
+    
+    
+    
 }
 
 void MatchScore::print() {

@@ -7,24 +7,51 @@
 //
 
 #include "TieBreaker.hpp"
-#include "TieBreakerScore.cpp"
+#include "TieBreakerScore.hpp"
 #include "Score.hpp"
 #include "GameScore.hpp"
 #include "PointScore.hpp"
 
 TieBreaker::TieBreaker( Player *p1, Player *p2 ): Competition( p1, p2 ) {}
 
+//  Implemented by David Wells
 Score *TieBreaker::play( Player *p ) {
     
     
-    Score *score = new GameScore( player1(), player2() );
+    //  Create a score object for this TieBreaker round
+    //  A tiebreaker has different rules, so we made a different class to handle that
+    TieBreakerScore *tieScore = new TieBreakerScore(player1(), player2() );
     
-    while( !score->haveAWinner() ) {
-        PointScore *pointScore = reinterpret_cast<PointScore *>( p->serveAPoint() );
-        score->addScore( pointScore->getWinner() );
-        delete pointScore;
+    //  We are adding a point score to the tiescore and it needs to be type-casted to the same type
+    tieScore -> addScore(reinterpret_cast<PointScore *>(p->serveAPoint())->getWinner() );
+    
+    // Switch servers
+    p = p -> otherPlayer(p);
+    
+    // Create a variable to keep track of when we switch servers (initialized to not switch)
+    bool switchTheServer = false;
+    
+    //  While we don't have a winner of the tie-breaker round...
+    while( !tieScore -> haveAWinner() ) {
+        
+        tieScore -> addScore(reinterpret_cast<PointScore *>(p->serveAPoint())->getWinner() );
+        
+        //  Here we determine if we need to switch servers
+        //  Because we switch the server in a tie-breaker round every 2 turns
+        if (switchTheServer) {
+            
+            //  Switch the servers, the same way we've done it before
+            p = p -> otherPlayer(p);
+            
+        }
+        
+        // Set the server variable to the opposite of whatever it is currently set to
+        switchTheServer = !switchTheServer;
+
+        
     }
-    return score;
+    
+    return tieScore;
     
     
     
