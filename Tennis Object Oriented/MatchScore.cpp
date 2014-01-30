@@ -51,12 +51,15 @@ void MatchScore::print() {
     }
     
     // Print out final winner of the match:
+    
+    //  If player 1 is the winner
     if ( player1Score() > player2Score() ) {
         cout << "\nPlayer A wins the match " << player1Score() << " sets to "
         << player2Score() << endl;
         cout << endl;
     }
     
+    // Or if player 2 is the winner
     else{
         cout << "\nPlayer B wins the match " << player2Score() << " sets to "
         << player1Score() << endl;
